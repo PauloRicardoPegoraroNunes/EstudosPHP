@@ -1,0 +1,4 @@
+body{ background-image: url('l.jpg');  text-align: justify;}
+#div1{margin-left: 300px; margin-top: 200px; background-color: #2F4F4F; color:#000; width: 50%; padding: 30px 30px 30px 30px; }
+h1{color: #000;}
+#div2{background-color: #2F4F4F;  width: 20%; height: 600px; float: right; margin-top: -580px;}
